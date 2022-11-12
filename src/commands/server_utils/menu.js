@@ -20,12 +20,44 @@ module.exports = {
 					value: 'Check #showcase or https://beta.f1mv.com/showcase'
 				}),
 				new SelectMenuOptionBuilder({
-					label: 'DRM/playback issues',
-					value: 'Check https://beta.f1mv.com/docs/troubleshooting/drm-playback-issues#drm-playback-issues'
-				}),
-				new SelectMenuOptionBuilder({
 					label: 'FAQ',
 					value: 'Check https://beta.f1mv.com/docs/getting-started/faq'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'Black screen, DRM stuff',
+					value: 'drm'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'Stuttering, lagging',
+					value: 'sht'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'Positioning, sizing',
+					value: 'Check https://beta.f1mv.com/docs/usage/player-context-menu'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'Syncing',
+					value: 'Check https://beta.f1mv.com/docs/usage/syncing-streams'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'Why is the default latency 30s?',
+					value: 'sync'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'How does the telemetry work',
+					value: 'Check https://beta.f1mv.com/docs/getting-started/understanding-telemetry'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'Can I watch for free',
+					value: 'free'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'How to sign out',
+					value: 'signout'
+				}),
+				new SelectMenuOptionBuilder({
+					label: 'Keyboard shortcut',
+					value: 'Check https://beta.f1mv.com/docs/usage/keyboard-shortcuts'
 				})
 			);
 
