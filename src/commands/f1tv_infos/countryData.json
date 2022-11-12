@@ -974,6 +974,15 @@
     {
         "access": true,
         "archiveReplays": "available",
+        "extraInfo": "Replays from 2022 available 01/01/2023",
+        "f1Replays": "not_available",
+        "isoCode": "UK",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
         "extraInfo": null,
         "f1Replays": "after_2_days",
         "isoCode": "VI",

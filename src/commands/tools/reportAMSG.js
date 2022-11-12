@@ -20,7 +20,7 @@ module.exports = {
             interaction.targetId,
         );
         const channel = client.channels.cache.find(
-            (channel) => channel.id === "1040998949059838062",
+            (channel) => channel.id === "999727530246426706",
         );
         const embed = new EmbedBuilder()
             .setTitle("New message reported")
@@ -45,9 +45,14 @@ module.exports = {
             .setEmoji("🗑️")
             .setLabel("Delete this report")
             .setStyle(ButtonStyle.Danger);
+        button2 = new ButtonBuilder()
+            .setLabel("Go to the message")
+            .setStyle(ButtonStyle.Link)
+            .setURL(msg.url);
+
         channel.send({
             embeds: [embed],
-            components: [new ActionRowBuilder().addComponents(button)],
+            components: [new ActionRowBuilder().addComponents(button, button2)],
         });
 
         const modal = new ModalBuilder()

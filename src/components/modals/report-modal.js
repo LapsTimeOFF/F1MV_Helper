@@ -21,7 +21,7 @@ module.exports = {
             ephemeral: true,
         });
         const channel = client.channels.cache.find(
-            (channel) => channel.id === "1040998949059838062",
+            (channel) => channel.id === "999727530246426706",
         );
         channel.send({
             content: `Reason given : ${interaction.fields.getTextInputValue(
