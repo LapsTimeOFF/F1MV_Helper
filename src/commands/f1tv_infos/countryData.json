@@ -1,0 +1,1037 @@
+[
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "AO",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "AI",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "AG",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "AR",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "AW",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "not_available",
+        "isoCode": "AU",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": "Race replays will become available for the current season after 31 December for F1 TV Access subscribers",
+        "f1Replays": "after_2_days",
+        "isoCode": "AT",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "AZ",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BS",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_30_days",
+        "isoCode": "BH",
+        "pro": false,
+        "supportSeriesReplays": "after_30_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BB",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BE",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BA",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BW",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BR",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "VG",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BG",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "CA",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BQ",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "KY",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "CL",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "not_available",
+        "isoCode": "CN",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "CO",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "CR",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "HR",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "CW",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "CY",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "CZ",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "DK",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "DM",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "DO",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "EC",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_30_days",
+        "isoCode": "EG",
+        "pro": false,
+        "supportSeriesReplays": "after_30_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "SV",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "EE",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "FI",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "FR",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": "F1TV Pro is no longer available to purchase in Germany. Only existing Pro annual subscribers can access F1TV Pro content in this territory. Race replays will become available for the current season after 31 December for F1TV Access subscribers.",
+        "f1Replays": "delayed",
+        "isoCode": "DE",
+        "pro": false,
+        "supportSeriesReplays": "delayed"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "GH",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "GR",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "GD",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "GP",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "GT",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "HT",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "HN",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "HK",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "HU",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "IS",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "IN",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "ID",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "not_available",
+        "isoCode": "IL",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_midnight",
+        "isoCode": "IT",
+        "pro": false,
+        "supportSeriesReplays": "after_midnight"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "JM",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "JP",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "KE",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "LA",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "LV",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_30_days",
+        "isoCode": "LB",
+        "pro": false,
+        "supportSeriesReplays": "after_30_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "LT",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "LU",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "MY",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "MT",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "MQ",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "MX",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "MC",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "MS",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "MZ",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "NA",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "NL",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "NZ",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "NI",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "NG",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "NO",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "PK",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "PY",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "PE",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "PH",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "PL",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "PT",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_30_days",
+        "isoCode": "QA",
+        "pro": false,
+        "supportSeriesReplays": "after_30_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": "Replays from 2022 available from 01/01/2023",
+        "f1Replays": "not_available",
+        "isoCode": "IE",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "RO",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "BL",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "KN",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "LC",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "SF",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "VC",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_midnight",
+        "isoCode": "SM",
+        "pro": false,
+        "supportSeriesReplays": "after_midnight"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_30_days",
+        "isoCode": "SA",
+        "pro": false,
+        "supportSeriesReplays": "after_30_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "RS",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "SG",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "SX",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "SK",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "SI",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "ZA",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "KR",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "not_available",
+        "isoCode": "ES",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "SE",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": "Race replays will become available for the current season after 31 December for F1 TV Access subscribers",
+        "f1Replays": "not_available",
+        "isoCode": "CH",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "TW",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "delayed",
+        "extraInfo": "Replays from 2022 available on 01/01/24",
+        "f1Replays": "not_available",
+        "isoCode": "TH",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "TT",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "TR",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "TC",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_30_days",
+        "isoCode": "AE",
+        "pro": false,
+        "supportSeriesReplays": "after_30_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "UG",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "UA",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": "Replays from 2022 available 01/01/2023",
+        "f1Replays": "not_available",
+        "isoCode": "GB",
+        "pro": false,
+        "supportSeriesReplays": "not_available"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "VI",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "UY",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "US",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_midnight",
+        "isoCode": "VA",
+        "pro": false,
+        "supportSeriesReplays": "after_midnight"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "VE",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "ZM",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    },
+    {
+        "access": true,
+        "archiveReplays": "available",
+        "extraInfo": null,
+        "f1Replays": "after_2_days",
+        "isoCode": "ZW",
+        "pro": true,
+        "supportSeriesReplays": "after_2_days"
+    }
+]
